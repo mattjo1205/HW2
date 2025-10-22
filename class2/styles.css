@@ -29,7 +29,7 @@ nav ul{
     display: flex;
     justify-content: flex-end;
     gap: 5rem; 
-    width: 80%;
+    width: 0%;
 }
 
 nav ul li:hover{
